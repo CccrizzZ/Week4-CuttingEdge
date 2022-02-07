@@ -89,7 +89,7 @@ cardano-node run \
 
 
 
-# Run Fluree
+# :snowflake: Run Fluree
 - install Java
 - download Fluree from https://developers.flur.ee/docs/overview/getting_started/#install-fluree
 - run in terminal:
@@ -99,5 +99,5 @@ cardano-node run \
 - the cli will show the address and port admin GUI is running on
 
 
-# Metaverses
+# :milky_way: Metaverses
 - follow the steps here https://www.reddit.com/r/decentraland/comments/m0xujc/decentralizing_decentraland_content_setting_up_a/
